@@ -1,4 +1,4 @@
-# imgur Album Downloader
+# imgur Album Downloader!
 
 This is a simple Python script that contains a class and command line interface that
 allows you to download ann images at full resolution in an imgur album, all at once.
